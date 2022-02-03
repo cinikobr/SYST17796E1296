@@ -4,6 +4,8 @@ package weather.assignment;
  *
  * @author rck20
  */
+
+//HELLO THIS IS ME EDITING FROM GITHUB.COM
 public class WeatherAssignment {
 
     public static void main(String[] args) {
